@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+	<title>Epitech Intra</title>
+	<script type="text/javascript" src="/translation/fr.js"></script>
+<script type="text/javascript" src="/staticb9fb8d1bfc5560658755f90eb3680c3b47f50f17/script.js"></script>
+	<link href="/staticb9fb8d1bfc5560658755f90eb3680c3b47f50f17/style.css" media="" rel="stylesheet" type="text/css" >
+<!--[if IE]> <link href="/staticb9fb8d1bfc5560658755f90eb3680c3b47f50f17/style-ie.css" media="screen" rel="stylesheet" type="text/css" ><![endif]-->
+<link href="/staticb9fb8d1bfc5560658755f90eb3680c3b47f50f17/print.css" media="print" rel="stylesheet" type="text/css" >
+<link href="/staticb9fb8d1bfc5560658755f90eb3680c3b47f50f17/module/activite/project.css" media="screen" rel="stylesheet" type="text/css" >
+	
+</head>
+<body id="">
+	<div id="body-wrapper">
+		<div id="header">
+	<div class="global">
+		<div class="header-wrapper">
+
+		</div>
+	</div>
+	<div class="intra">
+		<div class="header-wrapper">
+
+			<div class="reserved first-column">
+				<a title="Accueil" href="/"><span>Epitech</span></a>
+			</div>
+			<div class="reserved second-column"></div>
+
+						<div id="language">
+				<a href="javascript:" title="Français" class="FR ui-active" title="Changer en Francais">
+					<span class="icon"></span>
+					<span class="label">Français</span>
+				</a>
+				<a href="javascript:" title="Anglais" class="EN" title="Changer en Anglais">
+					<span class="icon"></span>
+					<span class="label">Anglais</span>
+				</a>
+				<a href="javascript:" title="Chinois" class="CN" title="Changer en Chinois">
+					<span class="icon"></span>
+					<span class="label">Chinois</span>
+				</a>
+				<div class="clear"></div>
+							</div>
+			<div class="bloc second-column" id="identification">
+	<a class="infos" href="/user/" data-myaction="user.identification">
+		<span class="picture nopicture"></span>
+		<span class="title">
+			<span class="large" title="">Anonyme</span>
+			<span class="small" title="">Anonyme</span>
+		</span>
+	</a>
+	<div class="menu">
+		<span class="city"></span>
+		<span class="course"></span>
+		<span class="links">
+						<a class="log-in" href="/login">
+				<span class="label">connexion</span>
+			</a>
+					</span>
+	</div>
+</div>
+						
+			<div class="navigation">
+				<table>
+					<tbody>
+						<tr>
+							<td class="module">
+								<a class="button" title="modules" href="/module/#">
+									<span class="icon">&nbsp;</span>
+									<span class="label">modules</span>
+								</a>
+							</td>
+							<td class="planning">
+								<a class="button" title="Planning"  href="/planning/#">
+									<span class="icon">&nbsp;</span>
+									<span class="label">Planning</span>
+								</a>
+							</td>
+							<td class="user">
+								<a class="button" title="Profil" href="/user/#!/netsoul">
+									<span class="icon">&nbsp;</span>
+									<span class="label">Profil</span>
+								</a>
+							</td>
+							<td class="e-learning">
+								<a class="button"  title="E-learning" href="/e-learning/#!">
+									<span class="icon">&nbsp;</span>
+									<span class="label">E-learning</span>
+								</a>
+							</td>
+							<td class="administration">
+								<a class="button" title="Administration" href="/admin/">
+									<span class="icon">&nbsp;</span>
+									<span class="label">Administration</span>
+								</a>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+</div>
+		<div id="main">
+			<div class="main-wrapper">
+				<div id="auth-login">
+
+			<p class="message">
+		Veuillez vous connecter	</p>
+		<fieldset>
+		<legend>Connexion</legend>
+		<div class="container">
+			<div class="slider">
+									<div class="login-student">
+						<a href="https://login.microsoftonline.com/common/oauth2/authorize?response_type=code&client_id=e05d4149-1624-4627-a5ba-7472a39e43ab&redirect_uri=https%3A%2F%2Fintra.epitech.eu%2Fauth%2Foffice365&state=%2Fmodule%2F2020%2FB-CPE-100%2FTLS-1-1%2Facti-414238%2Fproject%2Ffile%2FB-CPE-100_Rush2.pdf" title="Connect with Office365"></a>
+					</div>
+								<div class="login-referent">
+					<form method="post" action="">
+						<div class="login input">
+							<label for="auth-input-login">Login</label>
+							<input type="text" id="auth-input-login" name="login" placeholder="Login" />
+						</div>
+						<div class="password input">
+							<label for="auth-input-password">Mot de passe</label>
+							<input id="auth-input-password" name="password" placeholder="Mot de passe" type="password" />
+						</div>
+						<div class="remind input">
+							<input id="auth-input-remind" name="remind" type="checkbox" />
+							<label for="auth-input-remind">Se souvenir de moi</label>
+						</div>
+						<div class="submit">
+							<input type="submit" value="Connexion" />
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+	</fieldset>
+		<a id="switch" href="javascript:">Connexion référent</a>
+		</div>
+			</div>
+		</div>
+		<div id="sticky-push"></div>
+	</div>
+	<div id="footer">
+	<div class="footer-wrapper">
+				<ul class="first">
+									<li><a href="https://altissia.org/fr/epitech/" title="Altissia"><span class="icon"></span><span class="label">Altissia</span></a></li>
+												<li><a href="/ticket/#" title="Accéder à la liste de vos tickets"><span class="icon"></span><span class="label">Ticket</span></a></li>
+												<li><a href="/user/trombi/#" title="Trombi"><span class="icon"></span><span class="label">Trombi</span></a></li>
+								</ul>
+						<ul class="second">
+									<li><a href="/file/" title="Documents"><span class="icon"></span><span class="label">Documents</span></a></li>
+												<li><a href="/spice/#" title="Consulter vos épices"><span class="icon"></span><span class="label">Epice</span></a></li>
+												<li><a href="/stage/#" title="Accèder à vos conventions de stage"><span class="icon"></span><span class="label">Stage</span></a></li>
+												<li><a href="http://epitech.jobteaser.com/fr/users/sign_in" title="Career Development Center"><span class="icon"></span><span class="label">Career Development Center</span></a></li>
+								</ul>
+						<ul class="third">
+									<li><a href="https://intra-bocal.epitech.eu/" title="L'intranet du bocal (site externe)"><span class="icon"></span><span class="label">Intra Bocal</span></a></li>
+												<li><a href="https://eip.epitech.eu/" title="L'intranet des EIP (site externe)"><span class="icon"></span><span class="label">Intra EIP</span></a></li>
+												<li><a href="http://epitech.github.io/hub" title="Les hubs de l'innovation (site externe)"><span class="icon"></span><span class="label">Innovation Hub</span></a></li>
+												<li><a href="http://anciens.epitech.eu/" title="Le réseau des anciens (site externe)"><span class="icon"></span><span class="label">Anciens</span></a></li>
+								</ul>
+						<ul class="fourth">
+									<li><a href="/conference/#" title="Conférences"><span class="icon"></span><span class="label">Conférences</span></a></li>
+												<li><a href="http://tekfeed.epitech.eu" title="International"><span class="icon"></span><span class="label">International</span></a></li>
+												<li><a href="http://delegues.epitech.eu/" title="Intranet Délégués (site externe)"><span class="icon"></span><span class="label">Intranet Délégués</span></a></li>
+								</ul>
+			</div>
+</div>
+	<script type="text/javascript">
+    //<!--
+
+	$(document).ready(function() {
+		launchApp('user.login');
+	});
+    //-->
+</script>
+<script type="text/javascript">
+    //<!--
+window.route = $.extend(window.route || {}, {"format":"activite\/:scolaryear\/:codemodule\/:codeinstance\/:codeacti\/:project\/:file\/*"});
+window.notetracker = "7ab69ecf68f5a6d4b42d8f";
+window.modules = {"planning_perso":{"nb_max_seat":"500","nb_default_seat":"10","nb_days_maker_event":"7","nb_hours_before_empty_event":"3"},"appointment_slot_duration_max":"1400","appointment_slot_duration_min":"5","user_calendar":true,"spice":true,"conference":true,"internship":true,"banner":true,"forum_last_view":true,"forum_follow":true,"tellmemore":true,"preference":true,"ticket":true,"referent":true,"flags":true,"netsoul":true,"token":true,"token_expire":"72","board":{"student":true,"adm":false},"present":true,"ressources":true,"suivi":true,"parcourspedago":true,"rating":true,"max_length_message_global_notification":"1024","max_length_title_global_notification":"128","alert":true,"alerts":true,"partners":true,"scolaryear":2020};
+window.server = {"client_ip":"41.140.226.27","server_ip":"10.82.0.35","timezone":"Europe\/Paris","cdn":{"url":"https:\/\/cdn.local.epitech.eu"}};
+
+window.tracking = {key: 'UA-31288187-1', domain: 'intra.epitech.eu'};    //-->
+</script>
+</body>
+</html>
