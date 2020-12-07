@@ -1,3 +1,6 @@
+**Faites bien attention au commandes et fonctions autorisées ou non et au CODING STYLE !!**
+
+
 **ORDRE:**
 
 .C Pool day 1
